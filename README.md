@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rich</h1>
-<h3 align="center">A DevOps Sophomore (SOPHisticated MORon)</h3>
-
+<h3 align="center">Linux, SAN Storage, DevOps, and SRE</h3>
+<hr>
+<div class="container" text-align: "center">
+  <ul class="myUL" display: "inline-block" text-align: "left"> 
+    <li>I worked at SUN, Cisco, AOL/Yahoo/MapQuest/Verizon on prem and in the cloud</li>
+    <li>My head is in the clouds, my ass is in a chair</li>
+    <li>ESXi, BeagleBoard, Raspberry Pi, Arduino, Acorn Risc Machine</li>
+  </ul>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
